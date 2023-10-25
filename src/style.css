@@ -1,1 +1,12 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.card {
+  width: 200px;
+  height: 300px;
+}
+#palo2 {
+  transform: rotate(180deg);
+}
+body {
+  background-color: green;
+}
